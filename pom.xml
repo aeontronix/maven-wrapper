@@ -18,7 +18,7 @@
   </scm>
 
   <artifactId>maven-wrapper</artifactId>
-  <version>0.5.7-SNAPSHOT</version>
+  <version>1.0.0-beta1-SNAPSHOT</version>
   <packaging>provisio</packaging>
   <name>Maven Wrapper</name>
   <licenses>
